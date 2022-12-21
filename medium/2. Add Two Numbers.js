@@ -7,7 +7,7 @@
 */
 
 /*
-Time Comlexity
+Time Complexity
     Worst case O(n) n is length of longest list
 */
 
@@ -30,7 +30,7 @@ Time Comlexity
  }
 
  var addTwoNumbers = function(l1, l2) {
-            // Head of our new node that is what we will return
+        // Head of our new node that is what we will return
         let head = null;
         // tail of our new list
         let tail = null;
